@@ -24,7 +24,7 @@ I will use the measurement values and timestamp in your Kalman filter algorithm.
 Let's discuss the three main steps for programming a Kalman filter:
 
 1. initializing Kalman filter variables
-2. predicting where our object is going to be after a time step \Delta{t}Δt
+2. predicting where our object is going to be after a time step Δt
 3. updating where our object is based on sensor measurements
 4. the prediction and update steps repeat themselves in a loop.
 
